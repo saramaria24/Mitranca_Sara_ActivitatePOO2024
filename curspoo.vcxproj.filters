@@ -18,5 +18,14 @@
     <ClCompile Include="poocurs.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="clase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="incercare2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="incercare3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
