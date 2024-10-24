@@ -21,10 +21,10 @@
     <ClCompile Include="clase.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="incercare2.cpp">
+    <ClCompile Include="incercare3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="incercare3.cpp">
+    <ClCompile Include="seminar4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
