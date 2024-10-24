@@ -128,9 +128,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="clase.cpp" />
+    <ClCompile Include="incarcareseminar4.cpp" />
     <ClCompile Include="incercare3.cpp" />
     <ClCompile Include="poocurs.cpp" />
-    <ClCompile Include="seminar4.cpp" />
+    <ClCompile Include="seminar4.2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

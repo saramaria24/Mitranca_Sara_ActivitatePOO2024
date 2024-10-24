@@ -24,7 +24,10 @@
     <ClCompile Include="incercare3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="seminar4.cpp">
+    <ClCompile Include="seminar4.2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="incarcareseminar4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
